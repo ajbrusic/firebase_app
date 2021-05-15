@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862874960095",
+    "project_id": "fir-app-9d5d4",
+    "storage_bucket": "fir-app-9d5d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862874960095:android:da96916cc027171cf1e96a",
+        "android_client_info": {
+          "package_name": "andrewbrusic.firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862874960095-4indd3e16hek8ui0vmnq0f65pl08lu2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZI8EqAZ3ZMCsLjhOOjpf5fycyBAcwEAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862874960095-4indd3e16hek8ui0vmnq0f65pl08lu2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
